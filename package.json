@@ -2,7 +2,7 @@
   "name": "new-dev-blog-post",
   "displayName": "New Blog Post",
   "description": "New Blog Post Creator",
-  "publisher": "deepu ks",
+  "publisher": "deepu105",
   "keywords": [
     "Blog",
     "Post",
@@ -21,10 +21,10 @@
   "homepage": "https://github.com/deepu105/new-blog-post#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/deepu105/new-blog-post"
+    "url": "https://github.com/deepu105vs/new-blog-post"
   },
   "bugs": {
-    "url": "https://github.com/deepu105/new-blog-post/issues"
+    "url": "https://github.com/deepu105vs/new-blog-post/issues"
   },
   "version": "0.0.6",
   "engines": {
@@ -77,7 +77,7 @@
     }
   },
   "scripts": {
-    "vscode:prepublish": "npm run compile && cpy ./templates ./out/templates",
+    "vscode:prepublish": "npm run compile && cp -r ./templates ./out/templates",
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./",
     "postinstall": "node ./node_modules/vscode/bin/install",
