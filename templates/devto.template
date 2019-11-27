@@ -1,12 +1,24 @@
 ---
 title: ${cursor}
-published: ${published}
 description: 
-tags: ${tags}
+published: ${published}
+featured: false
+tags: [${tags}]
+series: languages
+canonical_url: https://deepu.tech/${fileBasenameNoExtension}/
 cover_image:
-canonical_url:
 ---
 
-# Post title
+Please follow me on [Twitter](https://twitter.com/deepu105) for updates and let me know what can be improved in the post.
+
+--- 
 
 Post body
+
+----
+
+If you like this article, please leave a like or a comment.
+
+You can follow me on [Twitter](https://twitter.com/deepu105) and [LinkedIn](https://www.linkedin.com/in/deepu05/).
+
+Cover image credit: 

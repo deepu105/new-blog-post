@@ -1,8 +1,8 @@
 {
-  "name": "new-blog-post",
+  "name": "new-dev-blog-post",
   "displayName": "New Blog Post",
   "description": "New Blog Post Creator",
-  "publisher": "timdeschryver",
+  "publisher": "deepu ks",
   "keywords": [
     "Blog",
     "Post",
@@ -18,13 +18,13 @@
     "theme": "dark"
   },
   "license": "MIT",
-  "homepage": "https://github.com/timdeschryver/new-blog-post#readme",
+  "homepage": "https://github.com/deepu105/new-blog-post#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/timdeschryver/new-blog-post"
+    "url": "https://github.com/deepu105/new-blog-post"
   },
   "bugs": {
-    "url": "https://github.com/timdeschryver/new-blog-post/issues"
+    "url": "https://github.com/deepu105/new-blog-post/issues"
   },
   "version": "0.0.6",
   "engines": {
